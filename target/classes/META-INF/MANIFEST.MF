@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PRASANNA
+Implementation-Vendor-Id: com.docker
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
